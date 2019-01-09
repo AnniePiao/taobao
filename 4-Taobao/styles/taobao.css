@@ -1,0 +1,58 @@
+
+
+
+
+.inner_c .header .logo{
+  background-color: yellow;
+  height: 100%;
+  width: 166px;
+  float: left;
+
+}
+.inner_c .header .search{
+  background-color: brown;
+  height: 100%;
+  width: 508px;
+  float: left;
+
+}
+.inner_c .header .account{
+  background-color: pink;
+  height: 100%;
+  width: 147px;
+  float: left;
+}
+.inner_c .header .header_right{
+  background-color: red;
+  height: 100%;
+  width: 138px;
+  float: left;
+}
+
+.inner_c .linknav .productsort{
+  background-color: coral;
+  height: 100%;
+  width: 125px;
+  position: absolute;
+  left: 0;
+}
+.inner_c .linknav .otherlinks{
+  background-color: red;
+  position: absolute;
+  right: 319px;
+}
+.inner_c .linknav .otherlinks a{
+  display: block;
+  height: 40px;
+  float: left;
+}
+.inner_c .linknva .therlinks a span{
+  display: block;
+  height: 40px;
+}
+.inner_c .main .main_lists .inner_l ul{
+
+}
+.inner_c .main .main_lists .inner_l ul li{
+
+}
